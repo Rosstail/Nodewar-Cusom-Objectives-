@@ -1,0 +1,6 @@
+name: NodewarCustomObjectives
+version: '${project.version}'
+main: rosstail.nodewarcustomobjectives.NodewarCustomObjectives
+api-version: 1.18
+depend:
+  - Nodewar
